@@ -1,0 +1,80 @@
+/* In-Dev */
+
+body.in-dev{
+
+    font-size: 25px;
+    margin-top: 110px;
+}
+
+body.in-dev > center > a{
+
+    font-family: Bradley Hand, cursive;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 860px;
+    background-color: #E2892B;
+    border-radius: 50%;
+}
+
+
+/* Home */
+
+body.home{
+
+    background-image: url(fortnite-download.jpg);
+}
+
+body.home > div.button-all > a{
+
+    font-family: Bradley Hand, cursive;
+    float: left;
+    display: block;
+    color: #E2892B;
+    text-align: center;
+    padding: 20px 175px;
+    text-decoration: none;
+    font-size: 100px;
+    padding: 130px 58px;
+    margin-top: 200px;
+}
+
+
+/* Download */
+
+header.download{
+
+    font-size: 25px;
+    color: aliceblue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body.download{
+
+    background-image: url(fortnite-background-download-saison.jpg);
+}
+
+body.download > a{
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aliceblue;
+    font-size: 40px;
+    margin-left: 101px;
+}
+
+body.download > div.button-home > a{
+
+    font-family: Bradley Hand, cursive;
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    background-color: #E2892B;
+    border-radius: 50%;
+    margin-top: 660px;
+}
